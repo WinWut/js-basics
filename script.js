@@ -6,7 +6,7 @@ console.log(`Hi, I'm ${name}, ${age} years old.`);
 
 const sensorName = "EC";
 const ecUnit = "µS/cm";
-const ecValue = 1900;
+const ecValue = 100;
 console.log(`${sensorName}: ${ecValue} ${ecUnit}`);
 
 const ecMin = 1200;
